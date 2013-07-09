@@ -1,4 +1,4 @@
-<?php include('../global/haut.php'); ?><span class="sstitre">api : ups</span></div>
+<span class="sstitre">api : ups</span></div>
 
 <p><u>Principe :</u><br />
 Cette api vous permet de suivre vos colis UPS. Il n'est pas nécessaire d'avoir un compte UPS, il suffit simplement du numéro de colis (1Zxxxxxxxxxxxxxxxxx).<br />
@@ -103,5 +103,3 @@ Le format de retour est le <em>JSON</em>.<br /><br />
 		</tr>
 	</tbody>
 </table>
-
-<?php include('../global/bas.php'); ?>
